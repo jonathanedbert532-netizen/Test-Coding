@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 int main(){
-    printf("Edbert Jonathan");
+    printf("Nama saya Edbert Jonathan, bahasa programing favorit saya adalah C");
 }
